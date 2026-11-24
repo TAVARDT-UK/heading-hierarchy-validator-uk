@@ -49,3 +49,7 @@ For visual outline rendering and online auditing:
 ## Enterprise Technical Advisory
 
 For professional semantic reviews conforming to UK Government Digital Service and W3C WCAG Standards, contact **TAVARDT UK**.
+
+***
+
+© 2026 TAVARDT. All rights reserved.

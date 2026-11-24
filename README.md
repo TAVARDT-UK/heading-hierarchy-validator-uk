@@ -5,7 +5,7 @@
 
 Auditing HTML5 document outlines, single H1 uniqueness, heading level skip detection, and screen reader clarity.
 
-Engineered and maintained by the accessibility and semantic architecture team at **TAVARDT UK**.
+Engineered and maintained by the accessibility and semantic architecture team at **TAVARDT**.
 
 ***
 
@@ -42,13 +42,13 @@ python heading_hierarchy_validator.py https://enterprise.co.uk -json
 For visual outline rendering and online auditing:
 
 * **Official Heading Tags Checker**
-* **TAVARDT UK Portal**
+* **TAVARDT Portal**
 
 ***
 
 ## Enterprise Technical Advisory
 
-For professional semantic reviews conforming to UK Government Digital Service and W3C WCAG Standards, contact **TAVARDT UK**.
+For professional semantic reviews conforming to UK Government Digital Service and W3C WCAG Standards, contact **TAVARDT**.
 
 ***
 
